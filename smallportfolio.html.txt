@@ -1,0 +1,25 @@
+          <! Small Portfolio using HTML -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <!-- This is a body tag -->
+  <body>
+      <h1 class="title">This is my portfolio </h1>
+      <p id="currentTime"></p>
+      <script src="script.js"></script>
+      <p>About me:</p>
+      <br/>
+      <p>Hello!, I'm a <b>web developer</b> passionate about building crazy websites!</p>
+      <br/>
+      <p>I have solved lots of good problems on DSA in every platform(codeforces,leetcode,gfg,codechef)</p>
+      <P>All problems of mine are tracked in :</P>
+      <br/>
+      <a href="https://codolio.com/profile/prasunjha__/problemSolving"> codolio </a>
+      <br/>
+      <p>Happing coding!: </p>
+      <img src="https://img.freepik.com/free-vector/programmer-good-coding-developer-programming-with-laptop-seat-work-from-home_40876-2624.jpg"<alt="Happy coding!">
+  </body>
+</html>
