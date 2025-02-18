@@ -5,27 +5,23 @@
     <title>Hello, World!</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
-  <!-- This is a body tag -->
   <body>
-      <h1 class="title">This is my portfolio </h1>
+      <h1 class="title"> This is my Portfolio :) </h1>
       <p id="currentTime"></p>
-      <script src="script.js"></script>
-      <p>About me:</p>
-      <br/>
-      <p>Hello!, I'm a <b>web developer</b> passionate about building crazy websites!</p>
-      <br/>
-      <p>I have solved lots of good problems on DSA in every platform(codeforces,leetcode,gfg,codechef)</p>
-      <P>All problems of mine are tracked in codolio:</P>
-      <br/>
+      <h4>ABOUT ME:</h4>
+      <p>Hey,I'm an <b>aspiring web developer</b> who loves to build crazy websites:</p>
+      <p>My Education: Schooling(DAV) , College(Nit)</p>
+      <br>
+      <p>I had solved a bunch of DSA problems including some CP questions also.</p>
+      <p>All questions of mine are tracked in codolio, you can go and check my profile</p>
       <a href="https://codolio.com/profile/prasunjha__/problemSolving" target="_main"><img src="https://codolio.com/static/notfoundpage.svg" alt="codolio" height="100"</a>
-      <br/>
-      <section><p>Some of my projects in github: </p></section>
-      <article><p>Coding helps us to enhance our mindset,technical skills and many things</p> </article>
-      <a href="https://github.com/prasunjha-codeExplorer" target="_main"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAUge0y3COiVXXstoLOhEmUh7BURHuBnaoXw&s" alt ="github" height="100"</a>
-      <p>If someone wants to connect with me via linkedin,you can connect by clicking in the image below</p>
-      <a href="https://www.linkedin.com/in/prasun-jha-a187ba2b6/" target="_main"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH69eAsa4goM0gd7h_g4AJIQ28RRV_1YgA_g&s" alt="linkedin"</a>
-      <p>Happy coding!</p>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_nl_puBSdcjB1zINA3dvlPRSXSI2ZSuBFoQ&s" alt="Happy coding">
-  </body> 
-  <footer>Contact me in prasunjha@gmail.com</footer>
+      <h4>Even though you can check my small projects on:</h4>
+      <a href="https://github.com/prasunjha-codeExplorer" target="_main"><img src= "https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png" alt="Github" heigth="100"</a>
+      <p>If someone wants to connect with me, you guys can connect via <b>Linkedin</b></p>
+      <p>Linkedin profile: </p>
+       <a href="https://www.linkedin.com/in/prasun-jha-a187ba2b6/" target="_main"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH69eAsa4goM0gd7h_g4AJIQ28RRV_1YgA_g&s" alt="linkedin" height="100"</a>
+       <br><br>
+       <footer>CONTACT  ME ON: prasunjha123@gmail.com</footer>
+      <script src="script.js"></script>
+  </body>
 </html>
